@@ -1,7 +1,7 @@
  Demo img 
 
 
-img src="10295661_250811218454576_2263289656020548219_n.png">
+<img src="10295661_250811218454576_2263289656020548219_n.png">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
